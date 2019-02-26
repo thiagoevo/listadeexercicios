@@ -1,0 +1,17 @@
+Algoritmo "semnome"
+// 
+//  
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 25/02/2019
+Var
+// Seção de Declarações das variáveis 
+ n1: real
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+ escreval("Informe o número: ")
+ leia(n1)
+ escreval("o quadrado de ", n1, " = ", raizq(n1))
+
+Fimalgoritmo
